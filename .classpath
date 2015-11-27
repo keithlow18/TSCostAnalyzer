@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/axis.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/colt.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/FilterableSortableTablePanel.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/flanagan.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-export-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphics2d-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-emf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-java-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-pdf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-ps-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-svg-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-swf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-graphicsio-tests-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-io-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-swing-2.0.3.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-util-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/freehep-xml-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jargs.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jas-plotter-2.2.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jgraph.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jlfgr-1_0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jung-algorithms-2.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jung-api-2.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jung-graph-impl-2.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jung-io-2.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/jung-visualization-2.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/Licenses.txt"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/openide-lookup-1.9-patched-1.0.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/OpenXES-XStream.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/OpenXES.jar" sourcepath="D:/tue/graduation/work eclipse/libsrc/OpenXES-1.5">
+		<attributes>
+			<attribute name="javadoc_location" value="http://code.deckfour.org/xes/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/ProM-Contexts.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/ProM-Framework.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/ProM-Models.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/ProM-Plugins.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/simmetrics.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/slickerbox1.0rc1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/Spex.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/TableLayout-20050920.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/Uitopia.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/UITopiaResources.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/weka.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/stdlib/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/lib/Log.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/lib/PetriNets.jar"/>
+	<classpathentry kind="lib" path="/CostBasedAnalysis/lib/saxon9he.jar"/>
+	<classpathentry kind="lib" path="D:/ProM/CostBasedAnalysis/Trunk/stdlib/PNAnalysis.jar"/>
+	<classpathentry kind="lib" path="D:/ProM/CostBasedAnalysis/Trunk/stdlib/TransitionSystems.jar"/>
+	<classpathentry kind="lib" path="D:/ProM/CostBasedAnalysis/Trunk/stdlib/TSPetrinet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
